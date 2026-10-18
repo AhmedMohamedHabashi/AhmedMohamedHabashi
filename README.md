@@ -3,43 +3,90 @@
 
 ### Flutter Developer | Mobile App Developer
 
-I'm an Information Technology student at Borg El Arab Technological University, passionate about building clean, maintainable, and user-friendly mobile applications using Flutter and Dart.
+I'm an Information Technology student at Borg El Arab Technological University, passionate about building clean, maintainable, and user-friendly mobile applications with Flutter and Dart.
 
 - 📱 Focused on Flutter mobile development
-- 🏗️ Interested in Clean Architecture and scalable app structure
-- 🔄 Working with BLoC and Cubit for state management
-- 🌐 Learning to integrate REST APIs into Flutter applications
-- 🤝 Enjoy collaborating with teams and building real-world projects
+- 🏗️ Interested in Clean Architecture and scalable application design
+- 🔄 State management with BLoC and Cubit
+- 🌐 Working with REST API integration
+- 🧠 Knowledge of OOP, Data Structures, and Algorithms
+- 🤝 Experienced in collaborative software projects
 - 📍 Alexandria, Egypt
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+## 🛠️ Technical Skills
 
 ### Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### State Management
+### Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### State Management & Architecture
 ![BLoC](https://img.shields.io/badge/BLoC-13B9FD?style=for-the-badge&logo=flutter&logoColor=white)
 ![Cubit](https://img.shields.io/badge/Cubit-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+- Clean Architecture
+- Object-Oriented Programming (OOP)
+- Data Structures and Algorithms
+- Problem Solving
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
+### 🏠 Home Service App
+**Status:** Completed
+
+A Flutter application for browsing home services and supporting the service booking experience.
+
+- Service browsing and navigation
+- UI implementation based on Figma designs
+- BLoC/Cubit state management
+- Clean Architecture
+
+**Tech Stack:** Flutter, Dart, BLoC/Cubit
+
+<!-- Add your Home Service repository link here. -->
+
+
+### 🛍️ Fresco — E-commerce App
+
+A Flutter-based e-commerce application designed to deliver a smooth online shopping experience.
+
+**Key Features:**
+- 🛍️ Browse products and view product details
+- 🔍 Search for products
+- 🛒 Manage shopping cart
+- 🔐 User authentication
+- 💳 Payment UI (interface only, no real payment gateway integration)
+
+**Tech Stack:** Flutter, Dart
+
+🔗 [View Repository](https://github.com/AhmedMohamedHabashi/fresco)
+
+
+
+
 ### 📖 Islami — Islamic Companion App
+**Status:** In Progress
 
-A team-based Flutter project focused on providing useful Islamic features in one application.
+A team-based Flutter project designed to bring essential Islamic services together in one application.
 
-**Planned and core features include:**
 - Quran browsing and recitation
 - Prayer times
 - Reciters and Quran radio
@@ -47,21 +94,7 @@ A team-based Flutter project focused on providing useful Islamic features in one
 
 **Tech Stack:** Flutter, Dart, BLoC, REST APIs
 
-🔗 [View Repository](https://github.com/AhmedMohamedHabashi/Islami)
-
-### 🏠 Home Service App
-
-A Flutter application for browsing home services and supporting the service booking experience.
-
-**Key areas:**
-- Service browsing and navigation
-- UI implementation based on Figma designs
-- State management with BLoC/Cubit
-- Clean Architecture
-
-**Tech Stack:** Flutter, Dart, BLoC/Cubit
-
-<!-- Add the correct public repository link here when confirmed. -->
+🔗 [View Islami Repository](https://github.com/AhmedMohamedHabashi/Islami)
 
 ---
 
@@ -76,7 +109,7 @@ A Flutter application for browsing home services and supporting the service book
 ## 📫 Connect With Me
 
 - 💻 GitHub: [AhmedMohamedHabashi](https://github.com/AhmedMohamedHabashi)
-- 💼 LinkedIn: Add your LinkedIn profile link here
+- 💼 LinkedIn: Add your LinkedIn profile URL here
 
 ---
 
