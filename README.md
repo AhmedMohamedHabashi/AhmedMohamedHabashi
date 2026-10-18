@@ -53,9 +53,7 @@ I'm an Information Technology student at Borg El Arab Technological University, 
 
 A Flutter mobile application developed as part of my training experience at TwinTechIT, focused on browsing and booking home services.
 
-<p align="center">
-  <img src="screenshots/Gemini_Generated_Image_9qxpwj9qxpwj9qxp.png" width="500" alt="Home Service App Preview" />
-</p>
+<img src="./screenshots/Gemini_Generated_Image_9qxpwj9qxpwj9qxp.jfif" width="500" alt="Home Service App Preview" />
 
 **Key Features:**
 - Service browsing and navigation
