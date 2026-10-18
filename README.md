@@ -62,7 +62,7 @@ I'm an Information Technology student at Borg El Arab Technological University, 
 
 A Flutter mobile application developed during my training experience at TwinTechIT, designed to help users explore and book home services.
 
-<img src="https://raw.githubusercontent.com/AhmedMohamedHabashi/AhmedMohamedHabashi/main/home_service_preview.jfif" />
+![Home Service App Portfolio](https://raw.githubusercontent.com/AhmedMohamedHabashi/AhmedMohamedHabashi/main/home_service_portfolio_showcase.png)
 
 **Key Features**
 - Home service browsing and navigation
