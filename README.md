@@ -1,4 +1,10 @@
-
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/AhmedMohamedHabashi/AhmedMohamedHabashi/main/profile-banner.png"
+    alt="Ahmed Habashi - Flutter Developer"
+    width="100%"
+  />
+</p>
 # Hi, I'm Ahmed Habashi 👋
 
 ### Flutter Developer | Mobile App Developer
