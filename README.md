@@ -57,23 +57,25 @@ I'm an Information Technology student at Borg El Arab Technological University, 
 
 ## 🚀 Featured Projects
 
+
 ### 🏠 Home Service App
 
-A Flutter mobile application developed as part of my training experience at TwinTechIT, focused on browsing and booking home services.
+A Flutter mobile application developed during my training experience at TwinTechIT, designed to help users explore and book home services.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AhmedMohamedHabashi/AhmedMohamedHabashi/main/home_service_preview.jfif" width="500" alt="Home Service App Preview" />
 </p>
 
-**Key Features:**
-- Service browsing and navigation
+**Key Features**
+- Home service browsing and navigation
 - UI implementation based on Figma designs
-- BLoC/Cubit state management
+- State management using BLoC/Cubit
 - Clean Architecture
 
-**Tech Stack:** Flutter, Dart, BLoC/Cubit
+**Tech Stack:** Flutter, Dart, BLoC/Cubit, Clean Architecture
 
-🔗 [View Company Repository](https://github.com/ahmedalighazy/home-service-app_)
+🔗 [View Project Repository](https://github.com/ahmedalighazy/home-service-app_)
+
 
 
 ### 🛍️ Fresco — E-commerce App
