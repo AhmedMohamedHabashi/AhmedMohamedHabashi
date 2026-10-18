@@ -81,8 +81,7 @@ A Flutter mobile application developed during my training experience at TwinTech
 ### 🛍️ Fresco — E-commerce App
 
 A Flutter-based e-commerce application designed to deliver a smooth online shopping experience.
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AhmedMohamedHabashi/fresco/main/screenshots/Gemini_Generated_Image_e0ni6le0ni6le0ni.jfif" width="500" alt="Fresco E-commerce App Preview" />
+![Fresco E-commerce Portfolio](https://raw.githubusercontent.com/AhmedMohamedHabashi/fresco/main/screenshots/fresco_portfolio_showcase.png)
 </p>
 **Key Features:**
 - 🛍️ Browse products and view product details
