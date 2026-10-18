@@ -62,9 +62,7 @@ I'm an Information Technology student at Borg El Arab Technological University, 
 
 A Flutter mobile application developed during my training experience at TwinTechIT, designed to help users explore and book home services.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AhmedMohamedHabashi/AhmedMohamedHabashi/main/home_service_preview.jfif" width="500" alt="Home Service App Preview" />
-</p>
+<img src="https://raw.githubusercontent.com/AhmedMohamedHabashi/AhmedMohamedHabashi/main/home_service_preview.jfif" />
 
 **Key Features**
 - Home service browsing and navigation
@@ -81,8 +79,12 @@ A Flutter mobile application developed during my training experience at TwinTech
 ### 🛍️ Fresco — E-commerce App
 
 A Flutter-based e-commerce application designed to deliver a smooth online shopping experience.
+
+
 ![Fresco E-commerce Portfolio](https://raw.githubusercontent.com/AhmedMohamedHabashi/fresco/main/screenshots/fresco_portfolio_showcase.png)
 </p>
+
+
 **Key Features:**
 - 🛍️ Browse products and view product details
 - 🔍 Search for products
