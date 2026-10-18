@@ -61,19 +61,19 @@ I'm an Information Technology student at Borg El Arab Technological University, 
 ## 💼 Professional Experience
 
 ### Flutter Developer Trainee — TwinTech IT
-
 **Alexandria, Egypt · 2026**
 
 Participated in developing a Flutter mobile application for a Saudi client as part of a collaborative development team.
 
-- Developed mobile UI components using Flutter and Dart.
-- Applied Clean Architecture principles to organize application code.
+- Developed responsive and reusable UI components using Flutter and Dart.
+- Applied Clean Architecture principles to organize application layers.
 - Used BLoC/Cubit for state management.
+- Integrated REST APIs using **Dio** to fetch application data.
+- Processed API responses and displayed dynamic data in the application UI.
 - Contributed to application screens and navigation flows.
 - Collaborated with team members using Git and GitHub.
 
-**Technologies:** Flutter · Dart · BLoC/Cubit · Clean Architecture · Git · GitHub
-
+**Technologies:** Flutter · Dart · Dio · REST APIs · BLoC/Cubit · Clean Architecture · Git · GitHub
 ---
 
 ## 🚀 Featured Projects
