@@ -125,8 +125,9 @@ A team-based Flutter project designed to bring essential Islamic services togeth
 
 ## 📫 Connect With Me
 
-- 💻 GitHub: [AhmedMohamedHabashi](https://github.com/AhmedMohamedHabashi)
-- 💼 LinkedIn: [Ahmed Habashi](https://www.linkedin.com/in/ahmed-habashi-517a882b4/)
+- 📧 **Email:** [habashy123456789a@gmail.com](mailto:habashy123456789a@gmail.com)
+- 💻 **GitHub:** [AhmedMohamedHabashi](https://github.com/AhmedMohamedHabashi)
+- 💼 **LinkedIn:** [Ahmed Habashi](https://www.linkedin.com/in/ahmed-habashi-517a882b4/)
 
 
 ---
