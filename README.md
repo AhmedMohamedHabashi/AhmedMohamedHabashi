@@ -1,10 +1,12 @@
- <p align="center">
+ 
+<p align="center">
   <img
-    src="https://raw.githubusercontent.com/AhmedMohamedHabashi/AhmedMohamedHabashi/main/Banner.jfif"
+    src="https://raw.githubusercontent.com/AhmedMohamedHabashi/AhmedMohamedHabashi/main/ahmed-habashi-banner.svg"
     width="100%"
     alt="Ahmed Habashi - Flutter Developer"
   />
 </p>
+
 
 # Hi, I'm Ahmed Habashi 👋
 
